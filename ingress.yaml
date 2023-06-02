@@ -6,7 +6,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: 
+  - host: hello-world.mch.loc
     http:
       paths:
         - pathType: Prefix
